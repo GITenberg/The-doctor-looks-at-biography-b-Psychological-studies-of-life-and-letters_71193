@@ -1,5 +1,8 @@
 _repo: The-doctor-looks-at-biography-b-Psychological-studies-of-life-and-letters_71193
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71193-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, Joseph
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45849'
     url: http://www.gutenberg.org/2009/agents/45849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71193#The-doctor-looks-at-biography-b-Psychological-studies-of-life-and-letters
 gutenberg_issued: '2023-07-14'
 identifiers:
   gutenberg: '71193'
